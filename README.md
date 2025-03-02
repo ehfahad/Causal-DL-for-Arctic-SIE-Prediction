@@ -1,6 +1,6 @@
 # Correlation to Causation: A Causal Deep Learning Framework for Arctic Sea Ice Prediction
 
-The paper **"Correlation to Causation: A Causal Deep Learning Framework for Arctic Sea Ice Prediction"** has been accepted in the Causal AI for Robust Decision Making (CARD) Workshop in Pervasive Computing and Communications (PerCom 2025). This research investigates the impact of causality-aware feature selection on the performance of deep learning models for Arctic Sea Ice Extent (SIE) prediction using daily and monthly datasets. Below, you will find details about the experiments conducted and links to the corresponding notebooks.
+The paper **"Correlation to Causation: A Causal Deep Learning Framework for Arctic Sea Ice Prediction"** has been accepted in the _Causal AI for Robust Decision Making (CARD)_ Workshop in **Pervasive Computing and Communications (PerCom 2025)**. This research investigates the impact of causality-aware feature selection on the performance of deep learning models for Arctic Sea Ice Extent (SIE) prediction using daily and monthly datasets. Below, you will find details about the experiments conducted and links to the corresponding notebooks.
 
 ## Overview of the Experiments
 
