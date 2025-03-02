@@ -1,6 +1,6 @@
-# Incorporating Causality with Deep Learning in Predicting Short-Term and Seasonal Sea Ice
+# Correlation to Causation: A Causal Deep Learning Framework for Arctic Sea Ice Prediction
 
-Welcome to the Jupyter Notebook collection for **"Incorporating Causality with Deep Learning in Predicting Short-Term and Seasonal Arctic Sea Ice."** This project investigates the impact of causality-aware feature selection on the performance of deep learning models for Arctic Sea Ice Extent (SIE) prediction using daily and monthly datasets. Below, you will find details about the experiments conducted and links to the corresponding notebooks.
+The paper **"Correlation to Causation: A Causal Deep Learning Framework for Arctic Sea Ice Prediction"** has been accepted in the Causal AI for Robust Decision Making (CARD) Workshop in Pervasive Computing and Communications (PerCom 2025). This research investigates the impact of causality-aware feature selection on the performance of deep learning models for Arctic Sea Ice Extent (SIE) prediction using daily and monthly datasets. Below, you will find details about the experiments conducted and links to the corresponding notebooks.
 
 ## Overview of the Experiments
 
