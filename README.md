@@ -66,4 +66,16 @@ Each notebook includes data preprocessing, model training, evaluation, and visua
 - Incorporating time lags for causal features into training to improve model performance.
 - Exploring advanced architectures like Transformer models to enhance causal feature integration.
 
+## Citation
 
+If you use this work, please cite as:
+
+```bibtex
+@INPROCEEDINGS{11038727,
+  author={Hossain, Emam and Ferdous, Muhammad Hasan and Wang, Jianwu and Subramanian, Aneesh and Gani, Md Osman},
+  booktitle={2025 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)}, 
+  title={Correlation to Causation: A Causal Deep Learning Framework for Arctic Sea Ice Prediction}, 
+  year={2025},
+  pages={62-67},
+  doi={10.1109/PerComWorkshops65533.2025.00042}}
+```
